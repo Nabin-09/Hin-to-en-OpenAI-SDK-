@@ -33,3 +33,6 @@ A minimal, full-stack AI translation app using Google's Gemini 2.5 Flash Lite mo
 - **POST** `/translate`
 - **Body:** `{"text": "नमस्ते"}`
 - **Response:** `{"translation": "Hello"}`
+
+
+THIS IS Open Source and all kind of PRs are welcomed
